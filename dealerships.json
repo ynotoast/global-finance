@@ -1,0 +1,36 @@
+{
+    "dealerships": [
+        {
+            "name": "London Motors",
+            "address": "123 Main Street, London",
+            "phone": "+44 1632 960448",
+            "url": "https://londonmotors.co.uk",
+            "latitude": 51.5074,
+            "longitude": -0.1278
+        },
+        {
+            "name": "Birmingham Auto",
+            "address": "456 High Street, Birmingham",
+            "phone": "+44 1632 960449",
+            "url": "https://birmingham-motors.co.uk",
+            "latitude": 52.4862,
+            "longitude": -1.8904
+        },
+        {
+            "name": "Coventry Car Centre",
+            "address": "789 Market Street, Coventry",
+            "phone": "+44 1632 960646",
+            "url": "https://cov-car-centre.co.uk",
+            "latitude": 52.4068,
+            "longitude": -1.5197
+        },
+        {
+            "name": "Bristol Motor Company",
+            "address": "101 Park Avenue, Bristol",
+            "phone": "+44 1632 960629",
+            "url": "https://bristol-motor-company.co.uk",
+            "latitude": 51.4545,
+            "longitude": -2.5879
+        }
+    ]
+}

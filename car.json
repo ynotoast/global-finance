@@ -1,0 +1,70 @@
+{
+    "cars": [
+        {
+            "id": "1",
+            "longName": "Porsche Taycan Turbo S",
+            "shortName": "Taycan",
+            "subtitle": "Where Style and Innovation Meet",
+            "desc": "The Taycan is the pure expression of a Porsche electric sports car. Striking proportions, timeless and instantly recognisable design, and a perfect blend of performance with everyday usability.",
+            "price": "£142,400",
+            "background": "images/cars/taycan/taycan-main.jpg",
+            
+            "d1": "Top Speed: 260 mph",
+            "d2": "Range: 400 km",
+            "d3": "0-100 kph in 2.8 s",
+            "d4": "5% to 80% in 22.5 minutes",
+            "d5": "750 Horse Power"
+        },
+
+        {
+            "id": "2",
+            "longName": "Golf R “20 Years”",
+            "shortName": "Golf",
+            "subtitle": "Excitement never gets old",
+            "desc": "The Volkswagen R is marking the Golf R's 20th anniversary with a special edition model. The Golf R represents a unique driving experience that cannot be fully described in words.",
+            "price": "£42,000",
+            "background": "images/cars/golf/golf-main.jpg",
+            
+            "d1": "Top Speed: 166 mph",
+            "d2": "Gearbox: Automatic",
+            "d3": "0-100 kph in 4.6 s",
+            "d4": "328 Break Horse Power",
+            "d5": "All Wheel Drive"
+        },
+
+        {
+            "id": "3",
+            "longName": "Tesla Model S Plaid",
+            "shortName": "Tesla",
+            "subtitle": "Take your driving experience to the next level",
+            "desc": "Model S Plaid has the quickest acceleration of any vehicle in production. Updated battery architecture for all Model S trims enables back-to-back track runs without performance degradation.",
+            "price": "£110,000",
+            "background": "images/cars/tesla/tesla-main.webp",
+            
+            "d1": "Top Speed: 200 mph",
+            "d2": "Range: 369 miles",
+            "d3": "0-100 kph in 1.99 s",
+            "d4": "1,020 Horse Power",
+            "d5": "All Wheel Drive"
+        },
+    
+        {
+            "id": "4",
+            "longName": "Peel P50",
+            "shortName": "Peel P50",
+            "subtitle": "Who said size matters...",
+            "desc": "The Peel P50 is a microcar that was first manufactured in 1962 on the Isle of Man. It has three wheels and is recognized by Guinness World Records as the smallest production car ever made.",
+            "price": "£80,000",
+            "background": "images/cars/peel/peel-front.jpg",
+            
+            "d1": "Top Speed: 28 mph",
+            "d2": "Weight: 59 kg",
+            "d3": "Gearbox: 3 Speed Manual",
+            "d4": "Length: 54 inches",
+            "d5": "In Excistence: 47"
+        }
+        
+    ]
+}
+
+

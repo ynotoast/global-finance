@@ -1,0 +1,9 @@
+{
+    "name": "my-vendor/my-package",
+    "description": "My package description",
+    "license": "proprietary",
+    "require": {
+        "phpmailer/phpmailer": "^6.7",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
